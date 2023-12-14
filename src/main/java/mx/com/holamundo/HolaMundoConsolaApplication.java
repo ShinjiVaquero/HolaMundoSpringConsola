@@ -8,6 +8,7 @@ public class HolaMundoConsolaApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HolaMundoConsolaApplication.class, args);
+		System.out.println("Hola mundo desde Java con Spring boot");
 	}
 
 }
